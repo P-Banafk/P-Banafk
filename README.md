@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Prajukta 👋
 
-<!--
-**P-Banafk/P-Banafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in building practical tech projects.
 
-Here are some ideas to get you started:
+🚀 Currently working on
+- Stock Market Tracker
+- Receipt OCR Extractor
+- Gesture Controlled Game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech I use
+- Python
+- React
+- Node.js
+- SQL Server
+- JavaScript
+
+💬 Ask me about
+- Full stack development
+- Data analytics
+- APIs
+
+📫 How to reach me
+LinkedIn: www.linkedin.com/in/prajukta-banerjee-03b37a343
+Email: praj.ban05@gmail.com
