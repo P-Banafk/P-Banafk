@@ -2,10 +2,9 @@
 
 Computer Science student interested in building practical tech projects.
 
-🚀 Currently working on
-- Stock Market Tracker
+Currently working on
 - Receipt OCR Extractor
-- Gesture Controlled Game
+- Emotion Detector Tool
 
 🔧 Tech I use
 - Python
