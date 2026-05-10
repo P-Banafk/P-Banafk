@@ -3,8 +3,8 @@
 Computer Science student interested in building practical tech projects.
 
 Currently working on
-- Receipt OCR Extractor
-- Emotion Detector Tool
+- Single View Legal AI Agent
+- Text Summarization Tool
 
 🔧 Tech I use
 - Python
@@ -12,6 +12,7 @@ Currently working on
 - Node.js
 - SQL Server
 - JavaScript
+- Java
 
 💬 Ask me about
 - Full stack development
