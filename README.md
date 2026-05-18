@@ -11,7 +11,6 @@ Currently working on
 - React
 - Node.js
 - SQL Server
-- JavaScript
 - Java
 
 💬 Ask me about
